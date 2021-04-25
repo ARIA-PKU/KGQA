@@ -1,7 +1,8 @@
 # KGQA
 使用方法
 1.下载数据
-因数据文件过大，所以将文件放到北大网盘：https://disk.pku.edu.cn:443/link/239AEAA9A2A27EE7134ED6EFC7F2BFCC（有效期限：2021-06-30 23:59）。下载完成后放入到data/文件夹内即可。
+因数据文件过大，所以将文件放到北大网盘：https://disk.pku.edu.cn:443/link/239AEAA9A2A27EE7134ED6EFC7F2BFCC（有效期限：2021-06-30 23:59）。
+下载完成后放入到data/文件夹内即可。
 
 2. 修改配置文件路径
 修改DouBan-KGQA/json2jena/rdf2jena/apache-jena-fuseki-3.10.0.2/run/configuration/fuseki_conf.ttl中ja:rulesFrom和tdb:location路径地址。
