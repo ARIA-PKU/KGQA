@@ -12,6 +12,7 @@
 进入到DouBan-KGQA/json2jena/rdf2jena/apache-jena-fuseki-3.10.0.2/路径下，启动fuseki-server。
 
 cd DouBan-KGQA/json2jena/rdf2jena/apache-jena-fuseki-3.10.0.2/ 
+
 ./fuseki-server
 
 4.启动query_main.py
